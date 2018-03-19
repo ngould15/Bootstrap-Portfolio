@@ -1,7 +1,0 @@
-#footer {
-    bottom: 0;
-    width: 100%;
-    position: fixed;
-    height: $height-footer;
-    background-color: grey;
-}
